@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/sdk:6.0
+FROM mcr.microsoft.com/dotnet/sdk:7.0
 
 # install node 
 RUN curl -sL https://deb.nodesource.com/setup_18.x | bash - \
